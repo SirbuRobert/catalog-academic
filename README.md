@@ -232,7 +232,7 @@ Acest proiect este dezvoltat în scop educațional pentru cursul de Programare A
 ## 👨‍💻 Autor
 
 **Robert-Gabriel Sîrbu**
-- Email: sirburobert9@mail.com
+- Email: sirburobert9@gmail.com
 - GitHub: [@SirbuRobert](https://github.com/SirbuRobert)
 - LinkedIn: [Robert Sirbu](https://linkedin.com/in/robert-sirbu-b3161b354/)
 
