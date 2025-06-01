@@ -215,16 +215,6 @@ Sistemul poate fi extins cu:
 - Export/import date (CSV, JSON)
 - Sistem de notificări
 
-## 🤝 Contribuții
-
-Pentru contribuții la proiect:
-
-1. Fork repository-ul
-2. Creează un branch nou: `git checkout -b feature/nova-functionalitate`
-3. Commit modificările: `git commit -m 'Adaugat functionalitate nova'`
-4. Push pe branch: `git push origin feature/nova-functionalitate`
-5. Deschide un Pull Request
-
 ## 📝 Licență
 
 Acest proiect este dezvoltat în scop educațional pentru cursul de Programare Avansată pe Obiecte în Java.
